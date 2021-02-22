@@ -1,0 +1,46 @@
+	div{
+	font-family: "Verdana";
+	text-align: center;
+	color: #03e7fc;
+    text-shadow: -2px 0 #000000, 0 1px #000000, 2px 0 #000000, 0 -1px #000000;
+	line-height: 1.4;
+	}
+	hr{
+	border: none;
+	background-color: #03e7fc;
+	height: 5px;
+	width: 80%;
+	}
+	.extra{
+	text-shadow: -1px 0 #000000, 0 1px #000000, 1px 0 #000000, 0 -1px #000000;
+	letter-spacing: 1px;
+	}
+	.count {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 90%;
+	color: #03e7fc;
+	text-shadow: -3px 0 #28313e, 0 3px #28313e, 3px 0 #28313e, 0 -3px #28313e;
+	letter-spacing: 3px;
+	}
+	.head {
+	font-size: 110%;
+	}
+	.tab {
+	position: relative;
+	transform: translate(0%, 110%);
+	font-size: 100%;
+	width: 100%;
+	height: 100%;
+	}	
+	body {
+	background-color: pink;
+	background-image: url("7.png");
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	/*background-position: bottom left;
+   */
+	}
