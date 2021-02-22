@@ -1,5 +1,5 @@
 	var oneDay = 24*60*60*1000;
-	var LockdownEnd1 = new Date("2021-06-21T12:00:00-00:00"); // Lockdown End 1
+	var LockdownEnd1 = new Date("2021-06-21T05:05:05-05:05"); // Lockdown End 1
 	var mode = 0; //DD:HH:MM:SS mode is default
 
 	
